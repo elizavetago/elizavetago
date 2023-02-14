@@ -27,7 +27,7 @@ hey there
 
 ### About Me :
 
-I'm a data analyst.
+I'm a Data Analyst.
 - Ready for cooperation
 - I have a lot of experience in writing technical documentation.
 my projects :
@@ -44,10 +44,6 @@ my projects :
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 
 
-  
-  
-  
-  
   
   
 </div>
