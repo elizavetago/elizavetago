@@ -7,10 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
- <a href="https://wa.me/79315809055">
-    <img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-  
  <a href="https://t.me/elizavetagoo">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
