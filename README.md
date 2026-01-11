@@ -25,11 +25,11 @@ hey there
 
 I'm a Data Analyst.
 - Ready for cooperation
-- Now I am an Analyst in the operational support team of the Customer care service.
+- Now I am an BigData Analyst in the DataOps team at an E-commerce company.
 - I have a lot of experience in writing technical documentation.
 - Implemented a data-based business process assessment.
 - Built automated employee performance reporting in python.
-- Business Intelligence in Tableau, Super Set.
+- Business Intelligence in Tableau, Superset, Redash.
 
 ---
 
